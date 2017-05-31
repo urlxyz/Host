@@ -1,0 +1,57 @@
+code,pre {
+	font-family:monospace, monospace;
+	font-size:1em
+}
+pre {
+	white-space:pre;
+	white-space:pre-wrap;
+	word-wrap:break-word
+	margin:0 0 1.5em
+}
+:not(pre)>code {
+	padding:.1em;
+	background:#f4f6f9
+}
+pre {
+	padding:0.75em;
+	border-left:0.25em solid #32a5c5;
+	background:#f4f6f9;
+	white-space:pre;
+	word-wrap:normal;
+	overflow:auto
+}
+.token.comment,.token.prolog,.token.doctype,.token.cdata {
+	color:#a1a194
+}
+.token.punctuation {
+	color:#464646
+}
+.namespace {
+	opacity:.7
+}
+.token.property,.token.tag,.token.boolean,.token.number,.token.constant,.token.symbol {
+	color:#d5144d
+}
+.token.selector,.token.attr-name,.token.string,.token.builtin {
+	color:#68bf29
+}
+.token.operator,.token.entity,.token.url,.language-css .token.string,.style .token.string,.token.variable {
+	color:#427187
+}
+.token.atrule,.token.attr-value,.token.keyword,.token.function {
+	color:#32a5c5
+}
+.token.regex,.token.important {
+	color:#ffbf00
+}
+.token.important {
+	font-weight:bold
+}
+.token.entity {
+	cursor:help
+}
+@media screen and (min-width: 60em) {
+	pre {
+		padding-left:2.25em
+	}
+}
