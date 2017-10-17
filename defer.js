@@ -1,1 +1,1 @@
-document.querySelectorAll('.section').style.visibility="visible";
+document.querySelectorAll('.main section').style.visibility="visible";
