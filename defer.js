@@ -1,1 +1,1 @@
-document.getElementsByClassName('slider').style.visibility="visible"; 
+.document.querySelector('slider').style.visibility="visible"; 
