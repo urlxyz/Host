@@ -1,1 +1,5 @@
-.document.querySelector('slider').style.visibility="visible"; 
+document.addEventListener("DOMContentLoaded",function(){
+document.querySelector('.slider tns-slider tns-carousel tns-subpixel tns-calc tns-horizontal').style.visibility="visible";
+});
+
+ 
