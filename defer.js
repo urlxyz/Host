@@ -1,1 +1,1 @@
-document.querySelector('.wrap-slider').style.visibility="visible";
+document.querySelectorAll('.section').style.visibility="visible";
