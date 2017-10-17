@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded",function(){
-document.querySelector('.slider').style.visibility="visible";
+document.querySelector('.wrap-slider').style.visibility="visible";
 });
 
  
