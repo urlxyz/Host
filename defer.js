@@ -1,1 +1,1 @@
-document.getElementsByClassName('tns-outer').style.visibility="visible"; 
+document.getElementsByClassName('slider').style.visibility="visible"; 
