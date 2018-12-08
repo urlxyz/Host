@@ -1,0 +1,16 @@
+{
+  "name": "Web UrLxyz",
+  "short_name": "UrLxyz",
+  "start_url": "https://www.urlxyz.com/?m=1",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#222",
+  "icons": [{
+    "src": "https://4.bp.blogspot.com/-_fuRWmsvvhw/VwNgCd9RvqI/AAAAAAAAmGo/IFhwNoh-_OIEsUORb-ie9gauR5HQgKAhQ/s48/android-icon-192x192.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-ccUYbxIIDvM/VqSSu92MnZI/AAAAAAAAksc/HExcuDOoKIQ/s512/logo.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
