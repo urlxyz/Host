@@ -6,11 +6,11 @@
   "background_color": "#fff",
   "theme_color": "#222",
   "icons": [{
-    "src": "https://4.bp.blogspot.com/-_fuRWmsvvhw/VwNgCd9RvqI/AAAAAAAAmGo/IFhwNoh-_OIEsUORb-ie9gauR5HQgKAhQ/s48/android-icon-192x192.png",
+    "src": "https://cdn.staticaly.com/gh/urlxyz/images/master/android-chrome-192x192.png",
     "sizes": "48x48",
     "type": "image/png"
   }, {
-    "src": "https://3.bp.blogspot.com/-ccUYbxIIDvM/VqSSu92MnZI/AAAAAAAAksc/HExcuDOoKIQ/s512/logo.png",
+    "src": "https://cdn.staticaly.com/gh/urlxyz/images/master/android-chrome-512x512.png",
     "sizes": "512x512",
     "type": "image/png"
   }]
